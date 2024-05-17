@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ly Duc Tin</h1>
 <h3 align="center">A passionate Software Engineer from Viet Nam</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on FPT Software<br>🌱 My work mainly develops software application about NLP and LLMs<br>
 
 
