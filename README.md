@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FPT Software**
 
-- 📫 How to reach me **tinld19@gmail.com**
+- 📫 How to reach me **tinld1910@gmail.com**
 
 <p align="left">
 </p>
