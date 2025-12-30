@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Duc Tin</h1>
-<h3 align="center">A passionate AI Software Engineer from Viet Nam</h3>
+<h3 align="center">A passionate AI Software Engineer</h3>
 
 🔭 <br>🌱 My work mainly develops software application about Backend, Machine Learning, Computer Vision, NLP and LLMs<br>
 
